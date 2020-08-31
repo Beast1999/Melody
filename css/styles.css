@@ -1,0 +1,164 @@
+body{
+  font-family: "Montserrat";
+}
+
+
+
+
+#title{
+  background-color: #050505;
+}
+#highlights{
+
+  text-align: center;
+  background-color: #222831;
+  color: #cc0e74;
+}
+#highlights h2{
+  font-family: "Montserrat";
+  font-size: 2.7rem;
+  line-height: 1.5;
+}
+#press{
+  background-color: #222831;
+  text-align: center;
+  padding-bottom: 3%;
+}
+#features{
+  background-color:#050505;
+  padding: 7% 12%;
+}
+#pricing{
+  background-color: #050505;
+  padding: 90px;
+  text-align: center;
+
+}
+#cta{
+  background-color: #222831;
+  color: #cc0e74;
+  padding: 7% 12%;
+  text-align: center;
+}
+#footer{
+  background-color: #050505;
+  color: #9818d6;
+  text-align: center;
+  margin-bottom: auto;
+  padding: 7% 12%;
+}
+#footer a{
+  color:  #9818d6;
+}
+.container-fluid{
+  padding: 3% 10%;
+}
+.navbar{
+  padding: 0 0 2.5rem;
+}
+.navbar-brand{
+  color: #9818d6 !important;
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 15px;
+}
+.nav-link{
+  font-family: "Montserrat";
+}
+.play-butn{
+  margin: 5% 3% 5% 0;
+}
+.msc-img{
+  width: 90%;
+}
+.p1{
+  color: #fff;
+}
+.p1:hover{
+  text-decoration: none;
+}
+.p2{
+  color: #000;
+}
+.p2:hover{
+  text-decoration: none;
+}
+
+.song{
+  color: #cc0e74;
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.icon{
+  color:#cc0e74 !important;
+  margin-bottom: 1rem;
+}
+.feature-box h3{
+  color: #9818d6;
+  font-family: "Montserrat";
+}
+.feature-box p{
+  color:#6e6d6d;
+}
+.feature-box{
+  text-align: center;
+  padding: 3%;
+}
+
+.carousel-item{
+  padding: 7% 12%;
+}
+.playlist1{
+  width: 50%;
+  margin-top: 25px;
+  height: 300px;
+}
+.playlist2{
+  width: 40%;
+  margin-top: 25px;
+  height: 300px;
+}
+
+.logo{
+  width: 15%;
+  margin: 20px 22px 25px;
+}
+
+.a1{
+  color: #cc0e74 !important;
+  font-family: "Montserrat";
+}
+.card{
+  background-color: #33354a;
+}
+.card-header{
+  background-color: #222831;
+  color: #cc0e74;
+}
+.card-body{
+  color: #9818d6;
+}
+.pc{
+  padding: 3% 2%;
+}
+
+.cta-head{
+  font-family: "Montserrat";
+  font-size: 3.2rem;
+  line-height: 1.5;
+}
+
+.sc1{
+  margin: 20px 10px;
+}
+@media (max-width:1028px) {
+  #title{
+    text-align: center;
+  }
+
+}

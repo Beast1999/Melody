@@ -1,18 +1,90 @@
 body{
 background-color: #000;
+overflow-x: hidden; 
 }
-.b1{
-  color: #cc0e74;
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  margin-top: 100px;
+}
+.img3{
+  height: 200px;
+
+}
+button{
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  background-color: #65d6ce;
+  transition-duration: 0.4s;
+}
+button:hover {
+  background-color: #1f3c88;
+  
+}
+.a{
   text-align: center;
   
-  margin-left: 100px;
+   
+  
+}
+.b{
+  
+  text-align: center;
+  
+}
+
+.c{
+  
+  text-align: center;
+  
+}
+
+.d{
+  
+  text-align: center;
+  
+}
+
+.e{
+  
+  text-align: center;
+  
+}
+.f{
+  
+  text-align: center;
+  
+}
+.g{
+  
+  text-align: center;
+  
+}
+.h{
+  
+  text-align: center;
+  
+}
+.i{
+  
+  text-align: center;
+  
+}
+.j{
+  
+  text-align: center;
+  
+}
 
 
-}
-.container-fluid1{
-  padding: 10%;
-  margin-right: 200px;
-}
+
+
+
 @media (max-width:900px) {
   .b1{
     margin-left: 100px;
